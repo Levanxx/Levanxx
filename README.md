@@ -33,16 +33,12 @@
 ### 🔹 Deep Learning & AI
 <p align="left">
   <img src="https://avatars.githubusercontent.com/u/15658638?s=200&v=4" width="40" title="Keras"/>
-  <img src="https://avatars.githubusercontent.com/u/326023?s=200&v=4" width="40" title="OpenCV"/>
-  <img src="https://avatars.githubusercontent.com/u/1728152?s=200&v=4" width="40" title="NLTK"/>
-  <img src="https://avatars.githubusercontent.com/u/25720743?s=200&v=4" width="40" title="Hugging Face"/>
 </p>
 
 ### 🔹 Visualización de Datos
 <p align="left">
   <img src="https://matplotlib.org/_static/logo2_compressed.svg" width="80" title="Matplotlib"/>
   <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="80" title="Seaborn"/>
-  <img src="https://avatars.githubusercontent.com/u/445971?s=200&v=4" width="40" title="Plotly"/>
 </p>
 
 ### 🔹 Bases de Datos & Cloud

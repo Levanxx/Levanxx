@@ -6,7 +6,7 @@
 
 <!-- Animación typing -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3000&color=00C2CB&center=true&vCenter=true&width=750&lines=🧠+Explorando+sobre+Ciencia+de+Datos;🚀+Creando+modelos+predictivos;📊+Analizando+datos+y+visualizando+información" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3000&color=FF0000&center=true&vCenter=true&width=750&lines=🧠+Explorando+sobre+Ciencia+de+Datos;🚀+Creando+modelos+predictivos;📊+Analizando+datos+y+visualizando+información" alt="Typing SVG">
 </p>
 
 ---

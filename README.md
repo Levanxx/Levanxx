@@ -1,47 +1,67 @@
-<!-- Encabezado con animación -->
+<!-- Encabezado -->
 <h1 align="center">Hola 👋, soy Leonardo Sullón</h1>
-<h3 align="center">🤖 Estudiante de Ingeniería de Software | Apasionado por IA y Machine Learning</h3>
+<h3 align="center">🤖 Estudiante de Ingeniería de Software | Apasionado por IA, Ciencia de Datos y Machine Learning</h3>
 
 ---
 
 <!-- Animación typing -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3000&color=00C2CB&center=true&vCenter=true&width=750&lines=🧠+Explorando+Inteligencia+Artificial+y+Machine+Learning;🚀+Creando+modelos+predictivos+y+aplicaciones;📚+Amante+de+la+ciencia+de+datos+y+la+tecnología" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3000&color=00C2CB&center=true&vCenter=true&width=750&lines=🧠+Explorando+Inteligencia+Artificial+y+Ciencia+de+Datos;🚀+Creando+modelos+predictivos+y+Deep+Learning;📊+Analizando+datos+y+visualizando+información" alt="Typing SVG">
 </p>
 
 ---
 
-## 🚀 Sobre mí
-- 🎓 Estudiante de *Ingeniería de Software* en la *UTP*  
-- 💻 Enfocado en *Ciencia de Datos, Inteligencia Artificial y Machine Learning*  
-- 🧠 Experiencia en *modelos de ML, análisis de datos y proyectos académicos*  
-- 🎯 Objetivo: Desarrollar un **modelo NLP** que entienda y genere texto de forma inteligente  
+## 🛠 Tech Stack & Tools  
 
----
+### 🔹 Lenguajes de Programación
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+</p>
 
-## 🛠 Lenguajes y Herramientas
+### 🔹 Data Science & Machine Learning
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo-notext.png" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40"/>
+</p>
 
-<p align="center">
-  <!-- Lenguajes principales -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  
-  <!-- Frontend -->
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  
-  <!-- Herramientas -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+### 🔹 Deep Learning & AI
+<p align="left">
+  <img src="https://avatars.githubusercontent.com/u/15658638?s=200&v=4" width="40" title="Keras"/>
+  <img src="https://avatars.githubusercontent.com/u/326023?s=200&v=4" width="40" title="OpenCV"/>
+  <img src="https://avatars.githubusercontent.com/u/1728152?s=200&v=4" width="40" title="NLTK"/>
+  <img src="https://avatars.githubusercontent.com/u/25720743?s=200&v=4" width="40" title="Hugging Face"/>
+</p>
+
+### 🔹 Visualización de Datos
+<p align="left">
+  <img src="https://matplotlib.org/_static/logo2_compressed.svg" width="80" title="Matplotlib"/>
+  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="80" title="Seaborn"/>
+  <img src="https://avatars.githubusercontent.com/u/445971?s=200&v=4" width="40" title="Plotly"/>
+</p>
+
+### 🔹 Bases de Datos & Cloud
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40"/>
+</p>
+
+### 🔹 Herramientas de Desarrollo
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Levanxx&show_icons=true&theme=tokyonight" height="160"/>

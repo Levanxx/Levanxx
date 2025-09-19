@@ -56,9 +56,9 @@
 
 ## 📊 GitHub Stats  
 
- <p align="center">
-  <img src="https://github-readme-stats-green-phi-44.vercel.app/api?username=Levanxx&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&icon_color=FF0000&title_color=FF0000&text_color=C9D1D9" height="180em" />
-  <img src="https://github-readme-stats-green-phi-44.vercel.app/api/top-langs/?username=Levanxx&layout=compact&theme=tokyonight&hide_border=true&title_color=FF0000&text_color=C9D1D9" height="180em" />
+<p align="center">
+  <img src="https://github-readme-stats-green-phi-44.vercel.app/api?username=Levanxx&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" height="180em" />
+  <img src="https://github-readme-stats-green-phi-44.vercel.app/api/top-langs/?username=Levanxx&layout=compact&theme=tokyonight&hide_border=true" height="180em" />
 </p>
 
 <hr style="border: 1px solid #FF0000; width:80%; margin:auto;">

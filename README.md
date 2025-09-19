@@ -57,8 +57,8 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Levanxx&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Levanxx&layout=compact&theme=tokyonight" height="160"/>
+  ![GitHub Stats](https://github-readme-stats-<tu-proyecto>.vercel.app/api?username=Levanxx&show_icons=true&count_private=true&cache_seconds=21600)
+  ![Top Langs](https://github-readme-stats-<tu-proyecto>.vercel.app/api/top-langs/?username=Levanxx&layout=compact&cache_seconds=21600)
 </p>
 
 ---

@@ -2,14 +2,14 @@
 <h1 align="center">Hola 👋, soy Leonardo Sullón</h1>
 <h3 align="center">🤖 Estudiante de Ingeniería de Software | Apasionado por IA</h3>
 
----
+<hr style="border: 1px solid #FF0000; width:80%; margin:auto;">
 
 <!-- Animación typing -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3000&color=FF0000&center=true&vCenter=true&width=750&lines=🧠+Explorando+sobre+Ciencia+de+Datos;🚀+Creando+modelos+predictivos;📊+Analizando+datos+y+visualizando+información" alt="Typing SVG">
 </p>
 
----
+<hr style="border: 1px solid #FF0000; width:80%; margin:auto;">
 
 ## 🛠 Tech Stack & Tools  
 
@@ -52,7 +52,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
 </p>
 
----
+<hr style="border: 1px solid #FF0000; width:80%; margin:auto;">
 
 ## 📊 GitHub Stats  
 
@@ -61,6 +61,6 @@
   <img src="https://github-readme-stats-green-phi-44.vercel.app/api/top-langs/?username=Levanxx&layout=compact&theme=tokyonight&hide_border=true&title_color=FF0000&text_color=C9D1D9" height="180em" />
 </p>
 
-<hr>
+<hr style="border: 1px solid #FF0000; width:80%; margin:auto;">
 
 <p align="center">✨ Gracias por visitar mi perfil ✨</p>

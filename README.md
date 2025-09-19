@@ -56,12 +56,9 @@
 
 ## 📊 GitHub Stats  
 
-<p align="center">
   ![GitHub Stats](https://github-readme-stats-green-phi-44.vercel.app/api?username=Levanxx&show_icons=true&count_private=true&cache_seconds=21600&theme=tokyonight)
 
   ![Top Langs](https://github-readme-stats-green-phi-44.vercel.app/api/top-langs/?username=Levanxx&layout=compact&cache_seconds=21600&theme=tokyonight)
-
-</p>
 
 ---
 

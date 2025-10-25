@@ -1,5 +1,5 @@
 <!-- Encabezado -->
-<h1 align="center">Hola 👋, soy Leonardo Sullón</h1>
+<h1 align="center">Hola 👋, soy Levanx</h1>
 <h3 align="center">🤖 Estudiante de Ingeniería de Software | Apasionado por IA</h3>
 
 <hr style="border: 1px solid #FF0000; width:80%; margin:auto;">
